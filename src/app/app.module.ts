@@ -26,7 +26,7 @@ import { RodapeComponent } from './rodape/rodape.component';
     RodapeComponent
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
     MatButtonModule,
     MatCardModule,
     MatFormFieldModule,
