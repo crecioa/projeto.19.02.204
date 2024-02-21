@@ -1,0 +1,11 @@
+main{
+  min-width: 500px;
+}
+
+#section-banner{
+  min-height: 400px;
+}
+
+#sectio-banner img{
+  height: 500px;
+}

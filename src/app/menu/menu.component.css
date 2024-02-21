@@ -1,0 +1,11 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+span{
+  padding: 10px;
+}
+imag{
+  height: 50px;
+  width: 50px;
+}
